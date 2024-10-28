@@ -44,3 +44,8 @@ fileprivate func setupFirebase() {
         Firestore.firestore().settings = settings
     }
 }
+
+
+
+
+//hehehe commit
